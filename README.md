@@ -23,7 +23,7 @@ Note: If you use any of these datasets, please acknowledge the original sources 
 
 ### Code
 
-The code is available in the following repository: https://github.com/pilehvar/sensecnn
+The code to reproduce our experiments is available in the following repository: https://github.com/pilehvar/sensecnn
 
 
 If you use any of these resources, please cite the following paper:
