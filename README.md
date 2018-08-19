@@ -7,17 +7,17 @@ The following repository includes the pre-trained embeddings and preprocessed te
 
 We release the 300-dimension word embeddings used in our experiments, trained on UMBC with the following preprocessing techniques:
 
-- Simple tokenization: Download [here]() [~300 MB]
-- Lowercased: Download [here]() [~300 MB]
-- Lemmatized: Download [here]() [~300 MB]
-- Multiword-grouped: Download [here]() [~300 MB]
+- **Simple tokenization**: Download [here]() [~300 MB]
+- **Lowercased**: Download [here]() [~300 MB]
+- **Lemmatized**: Download [here]() [~300 MB]
+- **Multiword-grouped**: Download [here]() [~300 MB]
 
 ### Proprocessed datasets
 
 We also release the text categorization and sentiment analysis datasets already preprocessed.
 
-- Text categorization: Available [here]() [~300 MB]
-- Sentiment analysis: Available [here]() [~300 MB]
+- **Text categorization**: Available [here]() [~300 MB]
+- **Sentiment analysis**: Available [here]() [~300 MB]
 
 Note: If you use any of these datasets, please acknowledge the original sources that you can find in our paper.
 
