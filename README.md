@@ -27,8 +27,9 @@ We also release the text categorization and sentiment analysis datasets already 
 
 The code to reproduce our experiments is available in the following repository: https://github.com/pilehvar/sensecnn
 
+### Reference paper
 
-If you use any of these resources, please cite the following paper:
+If you use any of these resources, please cite the following [paper]():
 ```bash
 @InProceedings{camacho:preprocessing2018,
   author = 	"Camacho-Collados, Jose and Pilehvar, Mohammad Taher",
