@@ -5,12 +5,12 @@ The following repository includes the pre-trained word embeddings and preprocess
 
 ### Pre-trained word embeddings
 
-We release the 300-dimension word embeddings used in our experiments, trained on UMBC with the following preprocessing techniques:
+We release the 300-dimension word embeddings used in our experiments as binary *bin* files. The embeddings were trained on the UMBC corpus with the following preprocessing techniques:
 
-- **Vanilla** (simple tokenization): Download [here](https://drive.google.com/file/d/1dBnoeLR20LjNy4hVjR2P5U923A1uqQbR/view?usp=sharing) [~300 MB]
-- **Lowercased**: Download [here](https://drive.google.com/file/d/1vObC9pjcWiKpahziolHyTi5-lhiRw7xF/view?usp=sharing) [~300 MB]
-- **Lemmatized**: Download [here](https://drive.google.com/file/d/1E-oVlug-Pu6LA7Ke6ZHHDMmL7wjz9P1l/view?usp=sharing) [~300 MB]
-- **Multiword-grouped**: Download [here](https://drive.google.com/file/d/13fGiYIeXEpBQaNuKb3wRnfhCyxF02rDu/view?usp=sharing) [~300 MB]
+- **Vanilla** (simple tokenization): Download [here](https://drive.google.com/file/d/1dBnoeLR20LjNy4hVjR2P5U923A1uqQbR/view?usp=sharing) [~1.8 GB]
+- **Lowercased**: Download [here](https://drive.google.com/file/d/1vObC9pjcWiKpahziolHyTi5-lhiRw7xF/view?usp=sharing) [~1.6 GB]
+- **Lemmatized**: Download [here](https://drive.google.com/file/d/1E-oVlug-Pu6LA7Ke6ZHHDMmL7wjz9P1l/view?usp=sharing) [~1.7 GB]
+- **Multiword-grouped**: Download [here](https://drive.google.com/file/d/13fGiYIeXEpBQaNuKb3wRnfhCyxF02rDu/view?usp=sharing) [~2.1 GB]
 
 ### Preprocessed datasets
 
