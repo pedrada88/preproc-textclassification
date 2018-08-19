@@ -19,7 +19,7 @@ We also release the text categorization and sentiment analysis datasets already 
 - **Text categorization**: Available [here]() [~300 MB]
 - **Sentiment analysis**: Available [here]() [~300 MB]
 
-Note: If you use any of these datasets, please acknowledge the original sources that you can find in our paper.
+Note: If you use any of these datasets, please acknowledge the original sources (you can find them in the reference paper).
 
 ### Code
 
