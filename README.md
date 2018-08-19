@@ -37,7 +37,7 @@ If you use any of these resources, please cite the following [paper]():
   booktitle = 	"Proceedings of the EMNLP Workshop on Analyzing and interpreting neural networks for NLP",
   year = 	"2018",
   publisher = 	"Association for Computational Linguistics",
-  location = 	"Brussels, Belgium",
+  location = 	"Brussels, Belgium"
 }
 
 ```
