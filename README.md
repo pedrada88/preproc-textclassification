@@ -7,12 +7,12 @@ The following repository includes the pre-trained embeddings and preprocessed te
 
 We release the 300-dimension word embeddings used in our experiments, trained on UMBC with the following preprocessing techniques:
 
-- **Simple tokenization**: Download [here]() [~300 MB]
-- **Lowercased**: Download [here]() [~300 MB]
-- **Lemmatized**: Download [here]() [~300 MB]
-- **Multiword-grouped**: Download [here]() [~300 MB]
+- **Vanilla** (simple tokenization): Download [here](https://drive.google.com/file/d/1dBnoeLR20LjNy4hVjR2P5U923A1uqQbR/view?usp=sharing) [~300 MB]
+- **Lowercased**: Download [here](https://drive.google.com/file/d/1vObC9pjcWiKpahziolHyTi5-lhiRw7xF/view?usp=sharing) [~300 MB]
+- **Lemmatized**: Download [here](https://drive.google.com/file/d/1E-oVlug-Pu6LA7Ke6ZHHDMmL7wjz9P1l/view?usp=sharing) [~300 MB]
+- **Multiword-grouped**: Download [here](https://drive.google.com/file/d/13fGiYIeXEpBQaNuKb3wRnfhCyxF02rDu/view?usp=sharing) [~300 MB]
 
-### Proprocessed datasets
+### Preprocessed datasets
 
 We also release the text categorization and sentiment analysis datasets already preprocessed.
 
@@ -21,6 +21,9 @@ We also release the text categorization and sentiment analysis datasets already 
 
 Note: If you use any of these datasets, please acknowledge the original sources that you can find in our paper.
 
+### Code
+
+The code is available in the following repository: https://github.com/pilehvar/sensecnn
 
 
 If you use any of these resources, please cite the following paper:
