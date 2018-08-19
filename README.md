@@ -1,7 +1,7 @@
 ## On the Role of Text Preprocessing in Neural Network Architectures: An Evaluation Study on Text Categorization and Sentiment Analysis
 #### Jose Camacho Collados and Mohammad Taher Pilehvar
 
-The following repository includes the pre-trained embeddings and preprocessed text classification datasets for the paper *[On the Role of Text Preprocessing in Neural Network Architectures: An Evaluation Study on Text Categorization and Sentiment Analysis]()* .
+The following repository includes the pre-trained word embeddings and preprocessed text classification datasets for the paper *[On the Role of Text Preprocessing in Neural Network Architectures: An Evaluation Study on Text Categorization and Sentiment Analysis]()* .
 
 ### Pre-trained word embeddings
 
