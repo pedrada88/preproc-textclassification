@@ -35,7 +35,7 @@ If you use any of these resources, please cite the following paper:
   title = 	"On the Role of Text Preprocessing in Neural Network Architectures: An Evaluation Study on Text Categorization and Sentiment Analysis",
   booktitle = 	"Proceedings of the EMNLP Workshop on Analyzing and interpreting neural networks for NLP",
   year = 	"2018",
-  publisher = 	"Association for Computational Linguistics", and -
+  publisher = 	"Association for Computational Linguistics",
   location = 	"Brussels, Belgium",
 }
 
