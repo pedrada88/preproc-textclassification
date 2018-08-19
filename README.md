@@ -14,7 +14,7 @@ We release the 300-dimension word embeddings used in our experiments as binary *
 
 ### Preprocessed datasets
 
-We also release the text categorization and sentiment analysis datasets already preprocessed.
+We also release the text categorization and sentiment analysis datasets already preprocessed:
 
 - **Text categorization**: Available [here](https://drive.google.com/drive/folders/1xWc2-CP-e33ZQ9J9Meu0U1A4rAEvdRSC?usp=sharing)
 - **Sentiment analysis**: Available [here](https://drive.google.com/drive/folders/1e7sez3iYJEQwmRwS7hl6ptfN8ULefNUq?usp=sharing)
