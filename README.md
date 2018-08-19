@@ -25,7 +25,7 @@ We also release the text categorization and sentiment analysis datasets already 
 
 ### Code
 
-The code to reproduce our experiments is available in the following repository: https://github.com/pilehvar/sensecnn
+The code to run our experiments is available in the following repository: https://github.com/pilehvar/sensecnn
 
 ### Reference paper
 
