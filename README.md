@@ -1,7 +1,7 @@
 ## Text Preprocessing in Neural Text Classification
 #### Jose Camacho Collados and Mohammad Taher Pilehvar
 
-The following repository includes the pre-trained word embeddings and preprocessed text classification datasets for the paper *[On the Role of Text Preprocessing in Neural Network Architectures: An Evaluation Study on Text Categorization and Sentiment Analysis]()* .
+The following repository includes the pre-trained word embeddings and preprocessed text classification datasets for the paper *[On the Role of Text Preprocessing in Neural Network Architectures: An Evaluation Study on Text Categorization and Sentiment Analysis](https://arxiv.org/abs/1707.01780)* .
 
 ### Pre-trained word embeddings
 
@@ -25,11 +25,11 @@ We also release the text categorization and sentiment analysis datasets already 
 
 ### Code
 
-The code to run our experiments is available in the following repository: https://github.com/pilehvar/sensecnn
+The code to run our experiments is available in the following complementary repository: https://github.com/pilehvar/sensecnn
 
 ### Reference paper
 
-If you use any of these resources, please cite the following [paper]():
+If you use any of these resources, please cite the following [paper](https://arxiv.org/abs/1707.01780):
 ```bash
 @InProceedings{camacho:preprocessing2018,
   author = 	"Camacho-Collados, Jose and Pilehvar, Mohammad Taher",
