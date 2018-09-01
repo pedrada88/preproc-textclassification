@@ -20,7 +20,7 @@ We also release the text categorization and sentiment analysis datasets already 
 - **Sentiment analysis**: Available [here](https://drive.google.com/drive/folders/1e7sez3iYJEQwmRwS7hl6ptfN8ULefNUq?usp=sharing)
 
 *Note 1*: If you use any of these datasets, please acknowledge the original sources (you can find them in the reference paper).  
-*Note 2*: For each class file in the datasets each line corresponds to an instance in the corpus, be it a phrase, sentence or document depending on the dataset.
+*Note 2*: For each class file in the dataset directories, each line corresponds to an instance in the corpus, be it a phrase, sentence or document (depending on the dataset).
 
 
 ### Code
